@@ -1,0 +1,14 @@
+{
+  "appId": "app.barcolavadero.ovh",
+  "appName": "BarcoLavadero",
+  "webDir": "dist",
+  "server": {
+    "url": "https://barcolavadero.ovh",
+    "cleartext": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
